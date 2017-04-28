@@ -1,0 +1,65 @@
+*{
+  box-sizing: border-box;
+}
+
+
+
+
+body {
+  margin: 0;
+  padding: 0px 48px 88px
+  background: #FEFFF7;
+  font-size: medium;
+  color: #2E2E2E;
+  text-align: left;
+
+}
+
+
+
+h4 {
+  font-family: arial;
+  font-size: 150%;
+  font-weight: normal;
+  max-width: 650px;
+
+}
+
+img {
+  display: block;
+  max-width: 75%;
+  padding: 4px;
+
+}
+
+p {
+  line-height: 1.4;
+  max-width: 650px;
+
+
+}
+
+h1 {
+  font-family: arial;
+  font-style:bold;
+  font-size: 8em;
+  letter-spacing: .1em;
+  line-height: 50%;
+}
+
+
+h3, h4 {
+  font-family: 'Montserrat', 'Helvetica Neue', 'Arial', sans-serif;
+  font-weight: normal;
+
+}
+
+h2 {
+  font-family: sans-serif; font-weight: bold; font-size: 2em;
+}
+
+figcaption {
+  font-family: 'garamond'; font-style: italic;
+  font-size: .75em;
+
+}
